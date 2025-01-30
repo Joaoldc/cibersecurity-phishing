@@ -20,4 +20,9 @@ Alguns testes com ataque phishing para compreender seu fincionamento
 8. URL para clone: http://www.facebook.com
 
 ![Imagem1](C:\Users\PCGamer\Desktop\Screenshot_2025-01-30_11_44_20.png)
+![Imagem2](C:\Users\PCGamer\Desktop\Screenshot_2025-01-30_11_44_21.png)
+
+## Erros
+
+Ainda na resolução dessa processo, pois não consegui um resultado satisfatório.
 
