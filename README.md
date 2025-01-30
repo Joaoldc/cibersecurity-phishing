@@ -19,3 +19,5 @@ Alguns testes com ataque phishing para compreender seu fincionamento
 7. Obtendo o endereço da máquina: ifconfig
 8. URL para clone: http://www.facebook.com
 
+![Screenshot_2025-01-30_11_44_20.png](C:\Users\PCGamer\Desktop\Screenshot_2025-01-30_11_44_20.png)
+
