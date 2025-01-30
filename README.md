@@ -24,5 +24,5 @@ Alguns testes com ataque phishing para compreender seu fincionamento
 
 ## Erros
 
-Ainda na resolução dessa processo, pois não consegui um resultado satisfatório. Estou analisando possíveis erros pra correção.
+Ainda na resolução desse processo, pois não consegui um resultado satisfatório. Estou analisando possíveis erros pra correção.
 
